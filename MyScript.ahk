@@ -16,7 +16,7 @@ SetBatchLines -1
 
 
 Macro1:
-InputBox, test, Beep
+InputBox, test, Beep222222
 InputBox, test, boop
 WinHttpDownloadToFile("https://raw.githubusercontent.com/MatthewDiamond/Shipping/master/MyScript.ahk", "./")
 Run, .\MyScript.ahk
