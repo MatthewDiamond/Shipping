@@ -16,7 +16,7 @@ SetBatchLines -1
 
 
 Macro1:
-InputBox, test, Beep
+InputBox, test, Beep222222222222
 InputBox, test, boop1111
 Run, .\MyScript.ahk
 Return
